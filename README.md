@@ -1,15 +1,15 @@
-# Resources-for-preparation-Of-Placements (Lecture video links)
+# Resources-for-preparation-Of-Placements (Lecture video links and Notes PDF)
 
 **Programming Language Used : C**
 
-- [Programming in C](https://www.youtube.com/playlist?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR)
+- [Programming in C](https://www.youtube.com/playlist?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR) (CODEWITHHARRY)
 - [Notes Pdf of Programming in C](https://drive.google.com/drive/folders/1p8ptsMGsr4CKIhX_0LKOmZBfV_h_CkUf?usp=drive_link)
 
-- [DS-ALGO](https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi)
+- [DS-ALGO](https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi) (CODEWITHHARRY)
 - [Notes Pdf of DS-ALGO](https://drive.google.com/drive/folders/1pHfNHhUHOcTY1TV7N2jBxFeYIfTAM0NY?usp=drive_link)
 
-- [Analysis of Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
-- [Analysis of Algorithms](https://drive.google.com/drive/folders/1RUMVOyQHcxU7BC8q-Kp1r0h0Hacrimz7?usp=drive_link)
+- [Analysis of Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) (Abdul Bari)
+- [Notes Pdf of Analysis of Algorithms](https://drive.google.com/drive/folders/1RUMVOyQHcxU7BC8q-Kp1r0h0Hacrimz7?usp=drive_link)
 
 
 <hr>
@@ -17,6 +17,8 @@
 **Programming Language Used : C++**
 
 - [Programming in C++](https://www.youtube.com/watch?v=EAR7De6Goz4) (TakeUForward)
+- [Programming in C++](https://youtu.be/FpfHmAkRVK4) (Hitesh Choudhary)
+- [Notes Pdf of Programming in C++](https://drive.google.com/drive/folders/1rvnAZIn_34vmspisAFDq1CxTxWgWde8Y?usp=drive_link) 
 
 - [ARRAYS](https://www.youtube.com/playlist?list=PLgUwDviBIf0rENwdL0nEH0uGom9no0nyB) (TakeUForward)
 
@@ -28,6 +30,8 @@
 
   - [TakeuForward](https://www.youtube.com/playlist?list=PLgUwDviBIf0pwFf-BnpkXxs0Ra0eU2sJY)
   - [Aditya Verma](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
+
+**[Notes Pdf of DS-ALGO](https://drive.google.com/drive/folders/1pHfNHhUHOcTY1TV7N2jBxFeYIfTAM0NY?usp=drive_link)**
 
 - [STACK AND QUEUE](https://www.youtube.com/playlist?list=PLgUwDviBIf0pOd5zvVVSzgpo6BaCpHT9c) (TakeUForward)
 
