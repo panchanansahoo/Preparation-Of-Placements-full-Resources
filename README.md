@@ -3,13 +3,13 @@
 **Programming Language Used : C**
 
 - [Programming in C](https://www.youtube.com/playlist?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR) (CODEWITHHARRY)
-- [Notes Pdf of Programming in C](https://drive.google.com/drive/folders/1p8ptsMGsr4CKIhX_0LKOmZBfV_h_CkUf?usp=drive_link)
+  - [Notes Pdf of Programming in C](https://drive.google.com/drive/folders/1p8ptsMGsr4CKIhX_0LKOmZBfV_h_CkUf?usp=drive_link)
 
 - [DS-ALGO](https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi) (CODEWITHHARRY)
-- [Notes Pdf of DS-ALGO](https://drive.google.com/drive/folders/1pHfNHhUHOcTY1TV7N2jBxFeYIfTAM0NY?usp=drive_link)
+  - [Notes Pdf of DS-ALGO](https://drive.google.com/drive/folders/1pHfNHhUHOcTY1TV7N2jBxFeYIfTAM0NY?usp=drive_link)
 
 - [Analysis of Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) (Abdul Bari)
-- [Notes Pdf of Analysis of Algorithms](https://drive.google.com/drive/folders/1RUMVOyQHcxU7BC8q-Kp1r0h0Hacrimz7?usp=drive_link)
+  - [Notes Pdf of Analysis of Algorithms](https://drive.google.com/drive/folders/1RUMVOyQHcxU7BC8q-Kp1r0h0Hacrimz7?usp=drive_link)
 
 
 <hr>
@@ -18,7 +18,7 @@
 
 - [Programming in C++](https://www.youtube.com/watch?v=EAR7De6Goz4) (TakeUForward)
 - [Programming in C++](https://youtu.be/FpfHmAkRVK4) (Hitesh Choudhary)
-- [Notes Pdf of Programming in C++](https://drive.google.com/drive/folders/1rvnAZIn_34vmspisAFDq1CxTxWgWde8Y?usp=drive_link) 
+  - [Notes Pdf of Programming in C++](https://drive.google.com/drive/folders/1rvnAZIn_34vmspisAFDq1CxTxWgWde8Y?usp=drive_link) 
 
 - [ARRAYS](https://www.youtube.com/playlist?list=PLgUwDviBIf0rENwdL0nEH0uGom9no0nyB) (TakeUForward)
 
@@ -31,7 +31,7 @@
   - [TakeuForward](https://www.youtube.com/playlist?list=PLgUwDviBIf0pwFf-BnpkXxs0Ra0eU2sJY)
   - [Aditya Verma](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
 
-**[Notes Pdf of DS-ALGO](https://drive.google.com/drive/folders/1pHfNHhUHOcTY1TV7N2jBxFeYIfTAM0NY?usp=drive_link)**
+***[Notes Pdf of DS-ALGO](https://drive.google.com/drive/folders/1pHfNHhUHOcTY1TV7N2jBxFeYIfTAM0NY?usp=drive_link)***
 
 - [STACK AND QUEUE](https://www.youtube.com/playlist?list=PLgUwDviBIf0pOd5zvVVSzgpo6BaCpHT9c) (TakeUForward)
 
@@ -64,6 +64,8 @@
 **Programming Language Used : JAVA**
 
 - [Programming in JAVA](https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q)
+ - [Notes Pdf of Programming in JAVA](https://drive.google.com/drive/folders/181-xjSbRgEhLGy4KEWa22sBTlYs2Iyht?usp=drive_link)
+
 
 - Data Structure and Algorithams
   - [Kunal Kushwaha](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
@@ -76,6 +78,8 @@
 **Programming Language Used : Python**
 
 - [Programming in Python](https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME)
+ - [Notes Pdf of Programming in Python](https://drive.google.com/drive/folders/12631aDSlbJCwQgknZecf1mZdTXY7-Jjl?usp=drive_link)
+
 
 - [DSA in Python](https://youtu.be/pkYVOmU3MgA)
 
@@ -85,7 +89,28 @@
 
 - [Python Engineer](https://www.youtube.com/c/PythonEngineer)
 
+
+<hr> 
+
+**Aptitude**
+
+***[All tpye aptitude Question PDF](https://backbencher-note.netlify.app/study-materials/aptitude-questions)***
+
 <hr>
+
+**HR Round Question**
+
+***[HR Round Question PDF](https://backbencher-note.netlify.app/study-materials/hr-questions)***
+
+
+
+<hr>
+
+***[Company WIse Study Materials](https://backbencher-note.netlify.app/study-materials/company-wise-study-materials)***
+
+***[All company's study materials](https://drive.google.com/drive/folders/10oEVaTE034-fNJ5z3qFRuL0q-QrwriqB?usp=drive_link)***
+
+ <hr>
 
 **Placement Series**
 
@@ -128,6 +153,7 @@
 - [Theory Of Computation (THOC)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev)
 
 - [Software Engineering (SE)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2)
+  - [Notes PDF of Software Engineering (SE)](https://drive.google.com/drive/folders/1EMzqHewJyPloQ0nN1VnaPEtZO_YzUSLs?usp=drive_link)
 
 <hr>
   
