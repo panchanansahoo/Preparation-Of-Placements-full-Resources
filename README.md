@@ -3,10 +3,14 @@
 **Programming Language Used : C**
 
 - [Programming in C](https://www.youtube.com/playlist?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR)
+- [Notes Pdf of Programming in C](https://drive.google.com/drive/folders/1p8ptsMGsr4CKIhX_0LKOmZBfV_h_CkUf?usp=drive_link)
 
 - [DS-ALGO](https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi)
+- [Notes Pdf of DS-ALGO](https://drive.google.com/drive/folders/1pHfNHhUHOcTY1TV7N2jBxFeYIfTAM0NY?usp=drive_link)
 
 - [Analysis of Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+- [Analysis of Algorithms](https://drive.google.com/drive/folders/1RUMVOyQHcxU7BC8q-Kp1r0h0Hacrimz7?usp=drive_link)
+
 
 <hr>
 
